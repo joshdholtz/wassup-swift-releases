@@ -6,9 +6,9 @@
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
       <item>
-        <title>Version 0.0.2</title>
+        <title>Version 0.1.0</title>
         <link>https://sparkle-project.org</link>
-        <sparkle:version>0.0.2</sparkle:version>
+        <sparkle:version>0.1.0</sparkle:version>
         <description>
           <![CDATA[
             <ul>
