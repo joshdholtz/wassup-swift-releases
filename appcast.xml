@@ -17,7 +17,7 @@
           ]]>
         </description>
         <pubDate>Tue, 29 Mar 2022 15:20:11 +0000</pubDate>
-        <enclosure url="https://github.com/joshdholtz/wassup-swift-releases/releases/download/1.1/Wassup.app.zip" sparkle:version="1.1" length="2251048" type="application/octet-stream" sparkle:dsaSignature="dtM4lowVB2ay82fskiU0ulzcli6cdUOEI03tqq4pAFY=" />
+        <enclosure url="https://github.com/joshdholtz/wassup-swift-releases/releases/download/1.1/Wassup.app.zip" sparkle:version="1.1" sparkle:edSignature="8Ybg9r5x948FJd2xUqnfjOTEnghlqOhZm8knhb9hw0RSkm0Y4VA3tpRGgHNgXeFlbU/OEyLrW/xd+eZVyz1WDw==" length="2251048" />
       </item>
   </channel>
 </rss>
