@@ -6,16 +6,16 @@
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
       <item>
-        <title>Version 0.2.0</title>
+        <title>Version 0.2.1</title>
         <link>https://sparkle-project.org</link>
-        <sparkle:version>0.2.0</sparkle:version>
+        <sparkle:version>0.2.1</sparkle:version>
         <description>
           <![CDATA[
-           <ul><li>Now uses GitHub GraphQL API for fetching data</li><li>Add 'showExtras: true` in GitHubSearch to show test status and review states</li></ul>
+           <ul><li>Cleaned up a lot of bad DSL code making it cleaner for new builders</li><li>Actions (buttons) can now have a label and/or an image</li><li>Default GitHubSearch open action now uses image for open to make look cleaner</li><li>Action modifer now had clearPrevious argument to override default actions (unsure if i'll keep this)</li></ul>
           ]]>
         </description>
         <pubDate>Tue, 29 Mar 2022 15:20:11 +0000</pubDate>
-        <enclosure url="https://github.com/joshdholtz/wassup-swift-releases/releases/download/0.2.0/Wassup.app.zip" sparkle:edSignature="xsnn83X+UnrMu1YqGsA793CM7D9gbdHSbKTdd/7jO3yd1SiSJLI5ke+OsIdwozNOaxFsVxDZ9XsxXa3OcBMoBQ==" length="4572628"
+        <enclosure url="https://github.com/joshdholtz/wassup-swift-releases/releases/download/0.2.1/Wassup.app.zip" sparkle:edSignature="biZvAaW+P+DEftQS8YveGCWIXKPEhZtB0WXsmCi/QLTZ4iWKeKuGb2rOtCWY4CnqTyzqx0xsW8lhEp4EabPwCQ==" length="4541485"
  />
       </item>
   </channel>
